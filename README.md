@@ -1,5 +1,5 @@
 # Universidad Politecnica Salesiana
-# ProyectoIntercicloSimulación
+# Proyecto Interciclo Simulación
 Simulación de un laboratorio de la ciudad de cuenca
 
 * Pedro Loja
