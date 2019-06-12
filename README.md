@@ -6,3 +6,8 @@ Mediantes simpy y python
 UPS
 
 Pedro Loja
+
+Requiere:
+
+Python 3.7
+Sympy
