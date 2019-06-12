@@ -10,4 +10,5 @@ Pedro Loja
 Requiere:
 
 Python 3.7
+
 Sympy
