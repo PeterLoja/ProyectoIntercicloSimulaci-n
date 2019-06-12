@@ -1,14 +1,12 @@
+# Universidad Politecnica Salesiana
 # ProyectoIntercicloSimulación
 Simulación de un laboratorio de la ciudad de cuenca
 
-Mediantes simpy y python
+* Pedro Loja
+* Jose Sanango
 
-UPS
+**Requiere:**
 
-Pedro Loja
+- Python 3.7
 
-Requiere:
-
-Python 3.7
-
-Sympy
+- Sympy
